@@ -1,8 +1,7 @@
 # 🔐 Next.js Authentication App
 
 <div align="center">
-  <img src="public/next.svg" alt="Next.js Logo" width="180"/>
-  <h3>Modern Authentication System with Next.js 15</h3>
+  <h3>Modern Authentication System with Next.Js 15</h3>
 </div>
 
 ## ✨ Features
