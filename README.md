@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-- **Your Name** - [GitHub Profile](https://github.com/ardhrubo)
+- **AR Dhrubo** - [GitHub Profile](https://github.com/ardhrubo)
 
 ---
 
