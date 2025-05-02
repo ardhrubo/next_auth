@@ -1,10 +1,10 @@
-# 🔐 Next.js Authentication App
+# Next.js Authentication App  🔐
 
 <div align="center">
   <h3>Modern Authentication System with Next.Js 15</h3>
 </div>
 
-## ✨ Features
+## Features
 
 - 🔒 Complete JWT Authentication Flow
 - 👤 User Registration & Login
@@ -116,9 +116,6 @@ src/
 6. Protected routes check for valid token via middleware
 7. User can view profile and log out
 
-## 📱 Screenshots
-
-*Add screenshots of your application here*
 
 ## 🧪 Features To Add
 
